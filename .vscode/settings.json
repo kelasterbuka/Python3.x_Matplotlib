@@ -1,7 +1,7 @@
 {
-	"workbench.colorTheme": "Atom One Dark",
-	"editor.fontSize": 18,
-	"window.zoomLevel": 1,
+	"workbench.colorTheme": "Dark Modern",
+	"editor.fontSize": 20,
+	"window.zoomLevel": 1.5,
 	"terminal.integrated.fontSize": 18,
 	"workbench.iconTheme": "material-icon-theme",
 	"cSpell.enabled": false,
@@ -9,4 +9,5 @@
 	"python.defaultInterpreterPath": "${workspaceFolder}/.env/bin/python",
 	"python.terminal.activateEnvironment": true,
 	"python.terminal.executeInFileDir": true,
+	"python-envs.defaultEnvManager": "ms-python.python:venv",
 }
